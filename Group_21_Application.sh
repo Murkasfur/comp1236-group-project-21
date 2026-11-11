@@ -2,7 +2,7 @@
 # =====================================================================
 # COMP1236 Group Project - Fall 2026
 # File:    Group_No_Application.sh
-# Team:    Maksym Vorobiov, <name 2>, Roma Stirmanov
+# Team:    Maksym Vorobiov, ZhaoMiao Li, Roma Stirmanov
 # Run in Git Bash:  bash Group_No_Application.sh
 # =====================================================================
 
@@ -30,7 +30,7 @@
 
 # =====================================================================
 # TASK 2 - SQUARE NUMBERS
-# Owner: <name>
+# Owner: ZhaoMiao Li
 # =====================================================================
 
 
