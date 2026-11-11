@@ -2,14 +2,14 @@
 # =====================================================================
 # COMP1236 Group Project - Fall 2026
 # File:    Group_No_Application.sh
-# Team:    <name 1>, <name 2>, Roma Stirmanov
+# Team:    Maksym Vorobiov, <name 2>, Roma Stirmanov
 # Run in Git Bash:  bash Group_No_Application.sh
 # =====================================================================
 
 
 # =====================================================================
 # PASSWORD
-# Owner: <name>
+# Owner: Maksym Vorobiov
 # =====================================================================
 
 
@@ -23,7 +23,7 @@
 
 # =====================================================================
 # TASK 1 - HEXAGONAL NUMBERS
-# Owner: <name>
+# Owner: Maksym Vorobiov
 # =====================================================================
 
 
