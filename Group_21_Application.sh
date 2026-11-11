@@ -2,7 +2,7 @@
 # =====================================================================
 # COMP1236 Group Project - Fall 2026
 # File:    Group_No_Application.sh
-# Team:    <name 1>, <ZhaoMiao Li>, <name 3>
+# Team:    <name 1>, ZhaoMiao Li, <name 3>
 # Run in Git Bash:  bash Group_No_Application.sh
 # =====================================================================
 
@@ -30,7 +30,7 @@
 
 # =====================================================================
 # TASK 2 - SQUARE NUMBERS
-# Owner: <ZhaoMiao Li>
+# Owner: ZhaoMiao Li
 # =====================================================================
 
 
