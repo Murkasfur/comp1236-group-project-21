@@ -2,7 +2,7 @@
 # =====================================================================
 # COMP1236 Group Project - Fall 2026
 # File:    Group_No_Application.sh
-# Team:    Maksym Vorobiov, <name 2>, <name 3>
+# Team:    Maksym Vorobiov, <name 2>, Roma Stirmanov
 # Run in Git Bash:  bash Group_No_Application.sh
 # =====================================================================
 
@@ -37,13 +37,13 @@
 
 # =====================================================================
 # TASK 3 - QUADRATIC SEQUENCE
-# Owner: <name>
+# Owner: Roma Stirmanov
 # =====================================================================
 
 
 
 # =====================================================================
 # CONTINUE / EXIT
-# Owner: <name>
+# Owner: Roma Stirmanov
 # =====================================================================
 
